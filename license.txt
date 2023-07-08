@@ -1,1 +1,17 @@
 This is a dummy license.
+
+
+The key fingerprint is:
+SHA256:X70ruhWEYXhXr/E2xy33cUBFcHSFubdq2Tsov4Ro5x8 ayush750502@gmail.com
+The key's randomart image is:
++---[RSA 3072]----+
+|         .o  .+BO|
+|        ...o..oo.|
+|         .... o..|
+|           . ..*o|
+|        S   o ++X|
+|         ..... **|
+|         o.o.E* .|
+|        . ooo=.+ |
+|          o+==o.o|
++----[SHA256]-----+
